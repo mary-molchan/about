@@ -1,3 +1,5 @@
+# link to Stepik course: https://stepik.org/course/58852/syllabus
+
 a = int(input())
 if a == 1 or a == 3 or a == 5 or a == 7 or a == 8 or a == 10 or a == 12:
     print(31)
