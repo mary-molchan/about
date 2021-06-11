@@ -1,4 +1,5 @@
-# A program that determines the smallest of four numbers
+# A program that determines the smallest of four numbers; link to Stepik course: https://stepik.org/course/58852/syllabus
+
 a, b, c, d = int(input()), int(input()), int(input()), int(input())
 if a < b:
     min1 = a
