@@ -1,3 +1,5 @@
+# link to Stepik course: https://stepik.org/course/58852/syllabus
+
 a, b = input(), input()
 if a == 'красный':
     if a == b:
