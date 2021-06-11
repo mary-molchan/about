@@ -1,3 +1,5 @@
+# link to Stepik course: https://stepik.org/course/58852/syllabus
+
 n = int(input())
 if n == 0:
     print('зеленый')
