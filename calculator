@@ -1,3 +1,5 @@
+# link to Stepik course: https://stepik.org/course/58852/syllabus
+
 a, b = int(input()), int(input())
 s = input()
 if s == '+':
