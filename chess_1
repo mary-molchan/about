@@ -1,4 +1,0 @@
-# # link to Stepik course: https://stepik.org/course/58852/syllabus
-
-a, b, c, d = int(input()), int(input()), int(input()), int(input())
-print('YES' if a == c or b == d else 'NO')
