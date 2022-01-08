@@ -1,4 +1,0 @@
-# link to Stepik course: https://stepik.org/course/58852/syllabus
-
-a, d, n = int(input()), int(input()), int(input())
-print(a+d*(n-1))
